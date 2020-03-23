@@ -1,8 +1,7 @@
-
 /* --------------------------------------------------
  * Sticky footer styles
  * ----------------------------------------------- */
-html {
+ html {
     position: relative;
     min-height: 100%;
 }
@@ -11,16 +10,8 @@ dl {
     font-size: 14pt;
 }
 
-dt{
-    margin-left:0;
-}
-
 p {
     font-size: 14pt;
-}
-
-li {
-    font-size: 12pt;
 }
 
 .info {
@@ -35,27 +26,10 @@ h4 {
     margin-bottom: 10px;
 }
 
-/* h3{
-    font-weight: bold;
-} */
-
-a {
-    color: #269fcf;
-}
-
 body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
-    background-color: #f7fac7;
-    /* background-image:url("http://static1.squarespace.com/static/54d8440ae4b0a80ddb2b9e1c/t/54e5726ee4b0c406684ae04a/1424323182792/overlaypolywide.png"); */
-    background-image:url("./overlaypolywide.png");
-    background-repeat:repeat;
-    background-size:30%;
-    /* font-family: Comic Sans MS, Comic Sans, cursive; */
-    /* font-family: Georgia, 'Times New Roman', Times, serif; */
-    font-family: Arial, Helvetica, sans-serif;
 }
-
 a.button:visited
 {
     color:inherit;
@@ -94,14 +68,6 @@ a.button:visited
     color:inherit;
     /*text-decoration:none;*/
 }
-
-.container
-{
-    background-color:#fff;
-}
-
-
-
 .author:hover
 {
     color:inherit;
@@ -119,12 +85,12 @@ a.button:visited
 }
 
 .footer {
-    /* position: absolute; */
+    position: absolute;
     bottom: 0;
     width: 100%;
     /* Set the fixed height of the footer here */
-    height: 40px;
-    /* background-color: #f0f0f0; */
+    height: 60px;
+    background-color: #f5f5f5;
 }
 
 
@@ -136,7 +102,7 @@ body > .container {
     padding: 60px 15px 0;
 }
 .container .text-muted {
-    margin: 9px 9px;
+    margin: 20px 0;
 }
 
 .footer > .container {
@@ -146,7 +112,6 @@ body > .container {
 
 code {
     font-size: 80%;
-    /* font-family: Comic Sans MS, Comic Sans, cursive; */
 }
 
 .starter-template {
