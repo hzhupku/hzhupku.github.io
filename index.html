@@ -136,7 +136,7 @@ __        __   _
         <!-- Stack the columns on mobile by making one full-width and the other half-width -->
         <div class="row">
         <div class="col-xs-2 col-md-2"><p align="center"><strong>&#160;07/03/2020</strong></p></div>
-        <div class="col-xs-18 col-md-19"><p>One paper is accepted by ECCV2020.</p></div>   
+        <div class="col-xs-18 col-md-19"><p>One paper is accepted by ECCV2020!</p></div>   
         <div class="col-xs-2 col-md-2"><p align="center"><strong>&#160;06/21/2020</strong></p></div>
         <div class="col-xs-18 col-md-19"><p>One paper is accepted by ICPR2020.</p></div>   
         <div class="col-xs-2 col-md-2"><p align="center"><strong>&#160;03/05/2020</strong></p></div>
@@ -186,17 +186,37 @@ __        __   _
                         <p class="author">
                             <strong>Hanzhe Hu</strong>, Deyi Ji, Weihao Gan, Wei Wu, Junjie Yan<br>
                             In Proceedings of European Conference on Computer Vision.<br>
-                            Accepted as Poster<br>
                         </p>
                         <button type="button" class="btn btn-success btn-xs" data-target="#cvpr20-abs" data-toggle="collapse">Abstract</button>
                         <button type="button" class="btn btn-info btn-xs" data-target="#cvpr20-bib" data-toggle="collapse">Bib</button>
                         <button type="button" class="btn btn-primary btn-xs"><a class="conf" target="_blank" href="./files/eccv20.pdf">PDF</a></button>
                         <p></p>
-                        <div id="cvpr20-abs" class="collapse">
-                        NA
+                        <div id="eccv20-abs" class="collapse">
+                            Recent works have made great progress in semantic segmentation by exploiting contextual information in a local or global manner
+                            with dilated convolutions, pyramid pooling or self-attention mechanism.
+                            In order to avoid potential misleading contextual information aggregation in previous works, we propose a class-wise dynamic graph convolution(CDGC) module to adaptively propagate information. The graph
+                            reasoning is performed among pixels in the same class. Based on the
+                            proposed CDGC module, we further introduce the Class-wise Dynamic
+                            Graph Convolution Network(CDGCNet), which consists of two main
+                            parts including the CDGC module and a basic segmentation network,
+                            forming a coarse-to-fine paradigm. Specifically, the CDGC module takes
+                            the coarse segmentation result as class mask to extract node features
+                            for graph construction and performs dynamic graph convolutions on the
+                            constructed graph to learn the feature aggregation and weight allocation.
+                            Then the refined feature and the original feature are fused to get the final
+                            prediction. We conduct extensive experiments on three popular semantic segmentation benchmarks including Cityscapes, PASCAL VOC 2012
+                            and COCO Stuff, and achieve state-of-the-art performance on all three
+                            benchmarks.
                         </div>
-                        <div id="cvpr20-bib" class="collapse">
-            
+                        <div id="eccv20-bib" class="collapse">
+                            @misc{hu2020classwise,
+                                title={Class-wise Dynamic Graph Convolution for Semantic Segmentation},
+                                author={Hanzhe Hu and Deyi Ji and Weihao Gan and Shuai Bai and Wei Wu and Junjie Yan},
+                                year={2020},
+                                eprint={2007.09690},
+                                archivePrefix={arXiv},
+                                primaryClass={cs.CV}
+                            }
                         </div>
                     </td>
                     </tr>
@@ -236,9 +256,8 @@ __        __   _
                             <span class="badge"><a class="conf" target="_blank" href="https://www.micc.unifi.it/icpr2020/">ICPR '20</a></span>
                         </h4>
                         <p class="author">
-                            <strong>Hanzhe Hu</strong>, Jinshi Cui， Hongbin Zha<br>
+                            <strong>Hanzhe Hu</strong>, Jinshi Cui, Hongbin Zha<br>
                             International Conference on Pattern Recognition.<br>
-                            Accept<br>
                         </p>
                         <button type="button" class="btn btn-success btn-xs" data-target="#cvpr20-abs" data-toggle="collapse">Abstract</button>
                         <button type="button" class="btn btn-info btn-xs" data-target="#cvpr20-bib" data-toggle="collapse">Bib</button>
@@ -264,7 +283,6 @@ __        __   _
                         <p class="author">
                             Shuai Bai, Zhiqun He, Yu Qiao, <strong>Hanzhe Hu</strong>, Wei Wu, Junjie Yan<br>
                             Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.<br>
-                            To be presented at IEEE Conference on Computer Vision and Pattern Recognition(CVPR), Seattle, USA, June 2020. <br>
                         </p>
                         <button type="button" class="btn btn-success btn-xs" data-target="#cvpr201-abs" data-toggle="collapse">Abstract</button>
                         <button type="button" class="btn btn-info btn-xs" data-target="#cvpr20-bib" data-toggle="collapse">Bib</button>
