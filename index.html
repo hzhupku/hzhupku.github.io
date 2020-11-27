@@ -178,6 +178,32 @@ __        __   _
                 <tbody>
                 <tr>
                     <td>
+                        <span class="label label-primary">C3</span>
+                    </td>
+                    <td>
+                        <h4 class="list-group-item-heading">
+                            Context-aware Graph Convolution Network for Target Re-identification
+                            <span class="badge"><a class="conf" target="_blank" href="https://aaai.org/Conferences/AAAI-21/">AAAI '21</a></span>
+                        </h4>
+                        <p class="author">
+                            <strong>Hanzhe Hu</strong>, Deyi Ji, Weihao Gan, Wei Wu, Junjie Yan<br>
+                            AAAI.<br>
+                            Under Review<br>
+                        </p>
+                        <button type="button" class="btn btn-success btn-xs" data-target="#aaai21-abs" data-toggle="collapse">Abstract</button>
+                        <button type="button" class="btn btn-info btn-xs" data-target="#aaai21-bib" data-toggle="collapse">Bib</button>
+                        <button type="button" class="btn btn-primary btn-xs"><a class="conf" target="_blank" href="./files/aaai21.pdf">PDF</a></button>
+                        <p></p>
+                        <div id="aaai21-abs" class="collapse">
+                                Most existing re-identification methods focus on learning robust and discriminative features with deep convolution networks. However, many of them consider content similarity separately and fail to utilize the context information of the query and gallery sets, e.g. probe-gallery and gallery-gallery relations, thus hard samples may not be well solved due to the limited or even misleading information. In this paper, we present a novel Context-Aware Graph Convolution Network (CAGCN), where the probe-gallery relations are encoded into the graph nodes and the graph edge connections are well controlled by the gallery-gallery relations. In this way, hard samples can be addressed with the context information flows among other easy samples during the graph reasoning. Specifically, we adopt an effective hard gallery sampler to obtain high recall for positive samples while keeping a reasonable graph size, which can also weaken the imbalanced problem in training process with low computation complexity. Experiments show that the proposed method achieves state-of-the-art performance on both person and vehicle re-identification datasets in a plug and play fashion with limited overhead.
+                        </div>
+                        <div id="aaai21-bib" class="collapse">
+            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
                         <span class="label label-primary">C4</span>
                     </td>
                     <td>
@@ -221,34 +247,11 @@ __        __   _
                             }
                         </div>
                     </td>
-                    </tr>
-                <tr>
-                    <td>
-                        <span class="label label-primary">C3</span>
-                    </td>
-                    <td>
-                        <h4 class="list-group-item-heading">
-                            Link Feature Learning with Graph Convolutional Network for Target Re-identification
-                            <span class="badge"><a class="conf" target="_blank" href="https://2020.acmmm.org/">MM '20</a></span>
-                        </h4>
-                        <p class="author">
-                            <strong>Hanzhe Hu</strong>, Deyi Ji, Weihao Gan, Wei Wu, Junjie Yan<br>
-                            AAAI.<br>
-                            Under Review<br>
-                        </p>
-                        <button type="button" class="btn btn-success btn-xs" data-target="#cvpr20-abs" data-toggle="collapse">Abstract</button>
-                        <button type="button" class="btn btn-info btn-xs" data-target="#cvpr20-bib" data-toggle="collapse">Bib</button>
-                        <button type="button" class="btn btn-primary btn-xs"><a class="conf" target="_blank" href="./files/eccv20.pdf">PDF</a></button>
-                        <p></p>
-                        <div id="cvpr20-abs" class="collapse">
+                </tr>
 
-                        </div>
-                        <div id="cvpr20-bib" class="collapse">
-            
-                        </div>
-                    </td>
-                    </tr>
-                    <tr>
+
+                
+                <tr>
                     <td>
                         <span class="label label-primary">C2</span>
                     </td>
@@ -265,14 +268,15 @@ __        __   _
                         <button type="button" class="btn btn-info btn-xs" data-target="#cvpr20-bib" data-toggle="collapse">Bib</button>
                         <button type="button" class="btn btn-primary btn-xs"><a class="conf" target="_blank" href="./files/eccv20.pdf">PDF</a></button>
                         <p></p>
-                        <div id="cvpr20-abs" class="collapse">
-
+                        <div id="icpr20-abs" class="collapse">
+                                Recent works have made great progress in semantic segmentation by exploiting contextual information in a local or global manner with dilated convolutions, pyramid pooling or self-attention mechanism. However, few works have focused on harvesting boundary information to improve the segmentation performance. In order to enhance the feature similarity within the object and keep discrimination from other objects, we propose a boundary-aware graph convolution (BGC) module to propagate features within the object. The graph reasoning is performed among pixels of the same object apart from the boundary pixels. Based on the proposed BGC module, we further introduce the Boundary-aware Graph Convolution Net- work(BGCNet), which consists of two main components including a basic segmentation network and the BGC module, forming a coarse-to-fine paradigm. Specifically, the BGC module takes the coarse segmentation feature map as node features and boundary prediction to guide graph construction. After graph convolution, the reasoned feature and the input feature are fused together to get the refined feature, producing the refined segmentation result. We conduct extensive experiments on three popular semantic segmentation benchmarks including Cityscapes, PASCAL VOC 2012 and COCO Stuff, and achieve state-of-the-art performance on all three benchmarks.
                         </div>
-                        <div id="cvpr20-bib" class="collapse">
+                        <div id="icpr20-bib" class="collapse">
             
                         </div>
                     </td>
-                    </tr>                 
+                </tr>          
+
                     <tr>     
                     <td>
                         <span class="label label-primary">C1</span>
@@ -293,7 +297,7 @@ __        __   _
                         <div id="cvpr201-abs" class="collapse">
                             The counting problem aims to estimate the number of ob- jects in images. Due to large scale variation and labeling deviations, it remains a challenging task. The static den- sity map supervised learning framework is widely used in existing methods, which uses the Gaussian kernel to gen- erate a density map as the learning target and utilizes the Euclidean distance to optimize the model. However, the framework is intolerable to the labeling deviations and can not reflect the scale variation. In this paper, we propose an adaptive dilated convolution and a novel supervised learn- ing framework named self-correction (SC) supervision. In the supervision level, the SC supervision utilizes the out- puts of the model to iteratively correct the annotations and employs the SC loss to simultaneously optimize the model from both the whole and the individuals. In the feature level, the proposed adaptive dilated convolution predicts a continuous value as the specific dilation rate for each loca- tion, which adapts the scale variation better than a discrete and static dilation rate. Extensive experiments illustrate that our approach has achieved a consistent improvement on four challenging benchmarks. Especially, our approach achieves better performance than the state-of-the-art meth- ods on all benchmark datasets.
                         </div>
-                        <div id="cvpr201-bib" class="collapse">
+                        <div id="cvpr2020-bib" class="collapse">
                             @InProceedings{Bai_2020_CVPR,
                                 author = {Bai, Shuai and He, Zhiqun and Qiao, Yu and Hu, Hanzhe and Wu, Wei and Yan, Junjie},
                                 title = {Adaptive Dilated Network With Self-Correction Supervision for Counting},
@@ -384,22 +388,24 @@ __        __   _
                                 <!-- <div class="panel-body"> -->
                                     <table class="table table-hover">
                                         <tbody>
-                                                    <tr>
-                                                        <td>
-                                                            <p></p>
-                                                            <div class="row vert-offset-top-1 vert-offset-bottom-1">
-                                                                <div class="col-md-4">
-                                                                    <img src="./files/cdgc2.png" class="img-thumbnail center-block" style="max-width:90%">
-                                                                </div>
-                                                                <div class="col-md-75">
-                                                                    <p><b>Class-wise Dynamic Graph Convolution for Semantic Segmentation</b><br>
-                                                                    <small>Peking University, SenseTime Group, advised by <a href="https://wuwei-ai.org/" target="_blank">Wei Wu</a></small> 
-                                                                    <p style="text-align:justify; max-width:97%"><small>Recent work has made great progress in semantic segmentation by exploit ing contextual information in a local or
-                                                                            global manner with dilated convolutions, pyramid pooling or self-attention mechanism. In order to avoid problematic contextual information aggregation in previous work, we proposed a class-wise dynamic graph convolution(CDGC) module to adaptively propagate information. Our proposed framework achieves the state-of-art performance on three popular benchmark datasets: Cityscapes, Pascal Voc2012 and COCO Stuff. Our paper is under review in ECCV2020.</small></p>
-                                                                </div>
-                                                            </div>
-                                                        </td>
-                                                    </tr>
+                                            <!--
+                                            <tr>
+                                                <td>
+                                                    <p></p>
+                                                    <div class="row vert-offset-top-1 vert-offset-bottom-1">
+                                                        <div class="col-md-4">
+                                                            <img src="./files/cdgc2.png" class="img-thumbnail center-block" style="max-width:90%">
+                                                        </div>
+                                                        <div class="col-md-75">
+                                                            <p><b>Class-wise Dynamic Graph Convolution for Semantic Segmentation</b><br>
+                                                            <small>Peking University, SenseTime Group, advised by <a href="https://wuwei-ai.org/" target="_blank">Wei Wu</a></small> 
+                                                            <p style="text-align:justify; max-width:97%"><small>Recent work has made great progress in semantic segmentation by exploit ing contextual information in a local or
+                                                                    global manner with dilated convolutions, pyramid pooling or self-attention mechanism. In order to avoid problematic contextual information aggregation in previous work, we proposed a class-wise dynamic graph convolution(CDGC) module to adaptively propagate information. Our proposed framework achieves the state-of-art performance on three popular benchmark datasets: Cityscapes, Pascal Voc2012 and COCO Stuff. Our paper is under review in ECCV2020.</small></p>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            -->
         
 
                                             <tr>
@@ -449,6 +455,7 @@ __        __   _
         <div class="row">
             <div class="col-xs-2 col-md-2"><p align="center">
                 <strong>
+                    10/2020<br>
                     01/2020<br>
                     09/2019<br>
                     06/2019<br>
@@ -458,6 +465,7 @@ __        __   _
                 </strong></p>
             </div>
             <div class="col-xs-18 col-md-15" style="margin-right: 5px"><p>
+                Scholarship for Outstanding Research (top 5%)<br>
                 1st National AI Challenge(Re-ID) Rank 20/2100<br>
                 Peking University Scholarship<br>
                 Outstanding Graduates of Nanjing University<br>
