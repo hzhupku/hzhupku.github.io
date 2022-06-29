@@ -33,23 +33,6 @@ __        __   _
 <!-- 2. Please REMOVE the website tracking code below or REPLACE them with your own; -->
 <!--    You do not want me to know who visited your homepage, do you? ;) -->
 
-<!-- I am so INSPIRED to see many academic researchers are now adopting this template which I created in 2015. -->
-<!-- Here is an incomplete list that I know of: -->
-
-<!--
-    <ul>
-        <li>http://web.cs.ucla.edu/~yuanjie.li/ </li>
-        <li>http://vast.cs.ucla.edu/~peipei/ </li>
-        <li>http://vast.cs.ucla.edu/~cody/ </li>
-        <li>http://www.cs.ucr.edu/~kkhas001/ </li>
-        <li>http://www.cs.ucr.edu/~dtrip003/ </li>
-    </ul>
--->
-
-<!-- I am proud and glad that you guys like my homepage template!!! 2f4650-->
-<!-- Therefore, I decide to make this template open source, so more people can benefit from using this template. -->
-<!-- Please contribute your ideas, raise issues, or commit codes at https://github.com/zwyuan/phd-homepage-template <li class="active"> -->
-
 <!-- Fixed navbar -->
 <nav class="navbar navbar-inverse navbar-fixed-top" style="background-color: #8f1814">
     <div class="container" style="background-color: #8f1814">
@@ -496,6 +479,30 @@ __        __   _
                 <tbody>
                     <tr>
                         <td>
+                            <span class="label label-primary">T2</span>
+                        </td>
+                        <td>
+                            <h4 class="list-group-item-heading">
+                                Label-Efficient Learning for Object Recognition.
+                            </h4>
+                            <p class="author">
+                                <strong>Hanzhe Hu</strong><br>
+                                Master's Thesis, Peking University, 2022.<br>
+                            </p>                           
+                            <button type="button" class="btn btn-success btn-xs" data-target="#master-thesis-abs" data-toggle="collapse">Abstract</button>
+                            <div id="master-thesis-abs" class="collapse">
+                                Human beings often exhibit strong performance in learning a new concept with only a few examples available. Artificial intelligence, in particular deep learning, usually requires large amounts of labeled data for training and can easily get stuck in label-scarce scenarios. Given this situation, label-efficient learning has become a vital research direction recently, which targets at learning tasks in a label efficient way through techniques such as semi-supervised learning and few-shot learning.
+    
+                                In this dissertation, we study the problem of label-efficient learning for object recognition, especially for semantic segmentation and object detection. The core idea is to fully exploit the limited available labels and enable the model to generalize well to target tasks. Firstly, to alleviate the prevailing imbalance problem in semi-supervised semantic segmentation, we propose a novel adaptive equalization learning framework which adaptively balances the training of well and badly performed categories, and alleviate the training noise raised by pseudo-labeling. Secondly, aiming to fully exploit available labeled data and capture fine-grained features, we propose a dense relation distillation module with context-aware aggregation to tackle the few-shot object detection problem. The abundant usage of the guidance information endows model the capability to handle common challenges such as appearance changes and occlusions. Thirdly, to realize the generalized few-shot semantic segmentation model with strong discriminative power among categories, we propose a meta learning based segmentation model for generalized N-way few-shot segmentation and a region-aware contrastive learning mechanism for supervised semantic segmentation. Empowered by the two techniques, the model is able to efficiently learn holistic context and perform effective N-way K-shot segmentation.
+                                
+                                Extensive experiments on the Cityscapes, PASCAL VOC, MS COCO and ADE20K benchmark datasets demonstrate that our methods outperform the state-of-the-art methods by a large margin. Specially, 1) our method on semi-supervised semantic segmentation not only achieves state-of-the-art results, but also obtains significant improvement on under-represented categories; 2) our method on few-shot object detection serves even better under extremely low-shot scenarios, indicating 
+                               the ability to capture local detailed information to overcome the variations brought by the randomly sampled training shots; 3) our method on few-shot semantic segmentation outperforms well-established baseline methods by a large margin for generalized few-shot segmentation. 
+                            </div>
+                            <p></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
                             <span class="label label-primary">T1</span>
                         </td>
                         <td>
@@ -504,10 +511,9 @@ __        __   _
                             </h4>
                             <p class="author">
                                 <strong>Hanzhe Hu</strong><br>
-                                Bachelor's thesis, Nanjing University, 2019.<br>
+                                Bachelor's Thesis, Nanjing University, 2019.<br>
                             </p>                           
                             <button type="button" class="btn btn-success btn-xs" data-target="#bachelor-thesis-abs" data-toggle="collapse">Abstract</button>
-                            <button type="button" class="btn btn-danger btn-xs"><a class="conf" target="_blank" href="./files/bachelor-slides.pdf">Defense Slides (Chinese)</a></button>
                             <div id="bachelor-thesis-abs" class="collapse">
                                     As the great success of machine learning and deep learning, face recognition has
                                     achieved unprecedented development with sufficient data to assist the learning process
@@ -525,6 +531,8 @@ __        __   _
                             <p></p>
                         </td>
                     </tr>
+
+
                 </tbody>
             </table>
         </div>
