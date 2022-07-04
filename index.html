@@ -128,6 +128,8 @@ __        __   _
 
         <!-- Stack the columns on mobile by making one full-width and the other half-width -->
         <div class="row">
+        <div class="col-xs-2 col-md-2"><p align="center"><strong>&#160;07/04/2022</strong></p></div>
+        <div class="col-xs-18 col-md-19"><p>One paper is accepted by ECCV2022.</p></div>
         <div class="col-xs-2 col-md-2"><p align="center"><strong>&#160;06/18/2022</strong></p></div>
         <div class="col-xs-18 col-md-19"><p>I graduated from Peking University!</p></div>
         <div class="col-xs-2 col-md-2"><p align="center"><strong>&#160;11/18/2021</strong></p></div>
@@ -207,6 +209,34 @@ __        __   _
                         </div>
                     </td>
                 </tr>-->
+                <tr>
+                    <td>
+                        <span class="label label-primary">C8</span>
+                    </td>
+                    <td>
+                        <h4 class="list-group-item-heading">
+                            Learning Implicit Feature Alignment Function for Semantic Segmentation
+                            <span class="badge"><a class="conf" target="_blank" href="https://eccv2022.ecva.net/">ECCV '22</a></span>
+                        </h4>
+                        <p class="author">
+                            <strong>Hanzhe Hu</strong>, Yinbo Chen, Jiarui Xu, Shubhankar Borse, Hong Cai, Fatih Porikli and Xiaolong Wang<br>
+                            In Proceedings of European Conference on Computer Vision.<br>
+                            
+                        </p>
+                        <button type="button" class="btn btn-success btn-xs" data-target="#eccv22-abs" data-toggle="collapse">Abstract</button>
+                        <button type="button" class="btn btn-info btn-xs" data-target="#eccv22-bib" data-toggle="collapse">Bib</button>
+                        <button type="button" class="btn btn-primary btn-xs"><a class="conf" target="_blank" href="./files/eccv22.pdf">PDF</a></button>
+                        <p></p>
+                        <div id="eccv22-abs" class="collapse">
+                            Integrating high-level context information with low-level details is of central importance in semantic segmentation. Towards this end, most existing segmentation models apply bilinear up-sampling and
+                            convolutions to feature maps of different scales, and then align them at the same resolution. However, bilinear up-sampling blurs the precise information learned in these feature maps and convolutions incur extra computation costs. To address these issues, we propose the Implicit Feature Alignment function (IFA). Our method is inspired by the rapidly expanding topic of implicit neural representations, where coordinatebased neural networks are used to designate fields of signals. In IFA, feature vectors are viewed as representing a 2D field of information. Given a query coordinate, nearby feature vectors with their relative coordinates are taken from the multi-level feature maps and then fed into an MLP to generate the corresponding output. As such, IFA implicitly aligns the feature maps at different levels and is capable of producing segmentation maps in arbitrary resolutions. We demonstrate the efficacy of IFA on multiple datasets, including Cityscapes, PASCAL Context, and ADE20K. Our method can be combined with improvement
+                            on various architectures, and it achieves state-of-the-art computationaccuracy trade-off on common benchmarks. Code will be made available at https://github.com/hzhupku/IFA.
+                        </div>
+                        <div id="eccv22-bib" class="collapse">
+            
+                        </div>
+                    </td>
+                </tr>
                 <tr>
                     <td>
                         <span class="label label-primary">C7</span>
