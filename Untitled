@@ -1,0 +1,836 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.2.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta charset="utf-8">
+  <title>Shenlong Wang</title>
+  <link href="./www/gly.css?rnd=132" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <div class="container">
+    <table width="95%" border="0" align="center">
+      <tbody>
+        <tr>
+          <td width="20%">
+            <div align="center"><img src="./images/portrait_2017.JPG" width="180" height="240" align="middle" class="dropshadow1"></div>
+          </td>
+          <td width="80%">
+            <div align="justify">
+              <table width="100%" border="0">
+                <tbody>
+                  <tr>
+                    <td width="5%" height="65" valign="top"></td>
+                    <td width="90%" valign="top">
+                      <table width="100%" border="0" align="center">
+                        <tbody>
+                          <tr>
+                            <!-- <td align="center"><span class="textpageheader">Shenlong Wang</span><img src="./name_chinese.png" width="129" height="50"></td>-->
+                            <td align="center"><span class="textpageheader">Shenlong Wang &nbsp;</span><img src="./images/slwang.png" align="top" height="33"></td>
+                          </tr>
+                          <tr>
+                            <td align="center">
+                              <p class="papertext"><a href="mailto:shenlong@illinois.edu">Email</a> / <a href="https://shenlong.web.illinois.edu/job/cv.pdf">CV</a> / <a href="https://bitbucket.org/shenlongwang/">Git</a> / <a href="https://scholar.google.com/citations?user=QFpswmcAAAAJ&amp;hl=en">Google Scholar</a></p>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td align="justify">
+                              <p class="papertext">I am an Assistant Professor at the <a href="https://cs.illinois.edu/">UIUC Department of Computer Science</a>, affiliated with <a href="https://vision.cs.illinois.edu/vision_website/">Computer Vision @ UIUC</a> and <a href="https://robotics.illinois.edu/">Illinois Robotics Group</a>. <!--I am a PhD candidate at the
+                    <a href="http://web.cs.toronto.edu">Department of Computer Science</a>, <a href="http://www.utoronto.ca">University of Toronto</a>.
+                    My advisor is <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>. I am visiting <a href="http://vladlen.info/lab/">Intel Intelligent Systems Lab</a>, working with <a href="http://vladlen.info/">Vladlen Koltun</a>. -->
+Before joining UIUC, I was a visiting scholar at the <a href="http://vladlen.info/lab/">Intel Intelligent Systems Lab</a>, working with <a href="http://vladlen.info/">Vladlen Koltun</a>. I finished my PhD at <a href="http://web.cs.toronto.edu">Department of Computer Science</a>, <a href="http://www.utoronto.ca">University of Toronto</a> and worked as a research scientist at Uber ATG, working with <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>.</p>
+                              <p class="papertext">I am interested in 3D computer vision and robotics, specifically on topics such as 3D perception and modeling, photorealistic content creation, localization and mapping, robot simulation and self-driving.</p>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </td>
+          <td width="10%">
+            <div align="center">
+              <table width="100%" border="0"></table>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="textsectionheader2">News</p>
+    <hr>
+    <ul type="square">
+        <!-- <li><strong style="color:black;">I am hiring self-motivated PhD/Master students starting Fall 2021. If you are interested, you can apply to UIUC CS department and select my name in the application system. For any further questions, please contact me.</strong></li> -->
+      <li>Two papers have been accepted by NeurIPS 2022. Congratulations to Yuan, Yuefan and Zeyuan! </li>
+      <li>Our group is honored to receive the <a href="https://www.amazon.science/research-awards/program-updates/74-amazon-research-awards-recipients-announced?fbclid=IwAR3a2o9XwH6kr6azZy9OMf_t8y4CrKOqPnf-olRlZ4GPq8TDJmwbAn3irug">Amazon Research Award</a>. </li>
+      <li>One paper has been accepted by ECCV 2022. Congratulations to Vlas! </li>
+      <li>Two papers have been accepted by CVPR 2022. Congratulations to Wei-Chiu and Zhi-Hao! </li>
+      <li>Vlas won NSF GRFP honorable mention. Congratulations to Vlas!</li>
+      <li>Talks at CVPR 2021: <a href="https://www.adp3.org/">Autonomous Driving Workshop</a>, <a href="https://guolu-home.github.io/cvpr21-tutorial">Data Compression Tutorial</a> and <a href="https://cvpr2021.waabi.ai/">Self-Driving Tutorial</a>. </li>
+      <li>Three papers have been accepted by CVPR 2021 (one oral).</li>
+      <li>One paper has been accepted by ICRA 2021.</li>
+      <li>One paper has been accepted by NeurIPS 2020.</li>
+      <li>One paper has been accepted by IROS 2020 (Best Application Paper Finalist).</li>
+      <li>Three papers have been accepted by ECCV 2020 (one spotlight).</li>
+      <li>Two papers have been accepted by CVPR 2020 as oral presentations. <!-- <LI>One paper has been accepted by CoRL 2019.
+<LI>One paper has been accepted by NeurIPS 2019.
+<LI>Two papers have been accepted by ICCV 2019 (one oral).
+<LI>One paper has been accepted by IROS 2019.
+<LI>Three papers have been accepted by CVPR 2019.
+<LI>One paper has been accepted by CORL 2018.
+<LI>One paper has been accepted by IROS 2018.
+<LI>One paper has been accepted by ECCV 2018.
+<LI>One paper has been accepted by CVPR 2018 as spotlight presentation. -->
+      <!--- <LI>One paper has been accepted by ICCV 2017 as spotlight presentation.
+<LI>One paper has been accepted by BMVC 2017 as oral presentation.
+<LI>Recipient of <a href="https://research.fb.com/announcing-the-2017-facebook-phd-fellows/">Facebook Fellowship</a> (declined).
+=-->
+      <!--- <LI>We announced the TorontoCity dataset: <a href="https://arxiv.org/pdf/1612.00423.pdf">arXiv link</a>.
+<LI>Check our latest research on deep correspondence via scale-attention mechanism :<a href="https://arxiv.org/pdf/1611.05837v1.pdf">arXiv link</a>.
+<LI>One paper has been accepted by NeurIPS 2016.
+<LI>Global patch collider has been included in <a href = "https://github.com/opencv/opencv_contrib/commit/ac62d70f9765facb5cd114b77909f57f24dc54c3">OpenCV</a> as an extra module. Thanks Vladislav Samsonov for the great implementation.
+<LI>The Holoportation UIST 2016 paper is online. I am proud to make a small contribution to this project. Media coverage: ZDNet, Yahoo, Wired, Engadget, CBS, etc.
+<LI>One paper has been accepted by ECCV 2016.
+<LI>I am working at Snapchat Research as a research intern from July to Sept.
+<LI>Check our latest research on how to find your way by observing the sun with CNNs from <a href="https://arxiv.org/abs/1606.07415">Arxiv 1606.07415</a>!
+<LI>Two papers (one oral and one poster) have been accepted by CVPR 2016.
+<LI>Two papers (one oral and one poster) have been accepted by ICCV 2015. =-->
+      <!--- <LI>I am working at Microsoft Research Redmond (<a href="http://research.microsoft.com/en-us/groups/i3d/">I3D group</a>) as a research intern from Aug to Nov.
+<LI>Our paper "Holistic 3D Scene Understanding from a Single Geotagged Image" has been accepted by CVPR 2015. Camera-ready will be released soon.
+<LI>I have received an equipment gift from <a href="http://www.dji.com/product/phantom-2-vision-plus">DJI Corporation</a> (one Phantom 2 Vision+ quadcopter) for my ongoing research. This support is gratefully acknowledged.
+<LI>I have received an equipment gift from <a href="http://www.nvidia.com.tw/gtx-700-graphics-cards/gtx-titan-z/">NVIDIA Corporation</a> (one Titan Z GPU) for my ongoing research. This support is gratefully acknowledged.
+<LI>Our paper "Efficient Inference for Contiuous Markov Random Fields with Polynomial Potentials" has been accepted by NeurIPS 2014. Camera-ready will be released soon. =-->
+      <!--- <LI>Our paper "Transductive Gaussian Regression on Image Denoising" has been accepted by ICCP14 as oral presentation. Camera-ready will be released soon. =-->
+      <!--- <LI>My master thesis "Learning Based Natural Image Prior Model" (in Chinese) has received best thesis award in NPU (2 out of ~200 graduates). =--></li>
+    </ul>
+    
+    <p class="textsectionheader2">Positions</p>
+    <hr>
+    <strong>We are always looking for motivated students to join us. </strong>
+    <ul type="square">
+      <li>Prospective graduate students: please apply to the Ph.D. programs at UIUC CS/ECE and list me as a potential advisor. </li>
+      <li>Current UIUC grad and undergrad students: please send me an email with your CV and transcript if you are interested. </li>
+      <li>Visiting students: please send me your CV and transcript through email.</li>
+    </ul>
+    
+    <p class="textsectionheader2">Group</p>
+    <hr>
+    <strong>PhD Students</strong>:
+    <ul type="square">
+      <li><a href="https://zhihao-lin.github.io/">Zhi-Hao Lin</a> (CS PhD)</li>
+      <li><a href="https://stevenlsw.github.io/">Shaowei Liu</a> (CS PhD, joint with <a href="https://saurabhg.web.illinois.edu/">Saurabh Gupta</a>)</li>
+      <li><a href="https://yshen47.github.io/">Yuan Shen</a> (CS PhD)</li>
+      <li><a href="https://wenj.github.io/">Jing Wen</a> (CS PhD, joint with <a href="https://www.alexander-schwing.de/">Alex Schwing</a>)</li>
+      <li><a href="https://www.zyrianov.org/">Vlas Zyrianov</a> (CS PhD)</li>
+      <li><a href="https://ajzhai.github.io/">Albert Jianqiao Zhai</a> (CS PhD)</li>
+    </ul>
+    <strong>Master Students</strong>:
+    <ul type="square">
+      <li>Current: Xiyue Zhu, Tianhang Chen (joint with <a href="http://faculty.nres.illinois.edu/~kaiyuguan/">Kaiyu Guan</a>) </li>
+    </ul>
+    <strong>Visiting Students</strong>:
+    <ul type="square">
+      <li>Current: Yuefan Wu (USTC), 
+      Wenjie Ye (Tsinghua), Yifan Lin (Peking), Li Yuan (ZJU), Yuning Cong (Peking) </li>
+      <li>Past: <a href="https://zhihao-lin.github.io/">Zhi-Hao Lin</a> (Now UIUC PhD), 
+      <a href="http://zeyuan-chen.com/">Zeyuan Chen</a> (Now UCSD PhD)</li>
+    </ul>
+    <strong>Undergraduate Students</strong>:
+    <ul type="square">
+      <li>Current: Bhargav Chandaka </li>
+      <li>Past: Ryan Wolf, Niviru Wijayaratne </li>
+    </ul>
+    
+
+    <p class="textsectionheader2">Teaching</p>
+    <hr>
+    <ul type="square">
+      <li><a href="https://courses.grainger.illinois.edu/cs446/fa2022/index.html">CS446: Machine Learning, Fall 2022</a></li>
+      <li><a href="/teaching/cs498spring22/">CS498: Introduction to Machine Perception, Spring 2022</a></li>
+      <li><a href="/teaching/cs598fall21/">CS598: Advanced Topics in Robot Perception, Fall 2021</a></li>
+    </ul>
+    
+    <p class="textsectionheader2">Publications</p>
+    <hr>
+    <table width="100%" border="0">
+      <tr>
+        <td width="26%"><img src="images/casa.png" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong> CASA: Category-agnostic Skeletal Animal Reconstruction </strong><br>
+      	  <a href="http://ivenwu.com/">Yuefan Wu</a>*,
+          <a href="http://zeyuan-chen.com/">Zeyuan Chen</a>*,
+          <a href="https://stevenlsw.github.io/">Shaowei Liu</a>,
+          <a href="https://jason718.github.io/">Zhongzheng Ren</a>,
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong><br>
+          Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022<br>
+          <a href="https://ivenwu.com/CASA/img/Category-agnostic%20Skeletal%20Animal.pdf">[Paper]</a>
+          <a href="https://ivenwu.com/CASA/">[Project]</a>
+          <a href="https://github.com/Iven-Wu/CASA">[Code]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="images/sgam.gif" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong> SGAM: Building a Virtual 3D World through Simultaneous Generation and Mapping </strong><br>
+      	  <a href="https://yshen47.github.io/">Yuan Shen</a>,
+          <a href="https://shenlong.web.illinois.edu/">Wei-Chiu Ma</a>,
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong><br>
+          Neural Information Processing Systems (<strong>NeurIPS</strong>), 2022<br>
+          <a href="https://openreview.net/pdf?id=17KCLTbRymw">[Paper]</a>
+          <a href="https://yshen47.github.io/sgam/">[Project]</a>
+          <a href="https://github.com/yshen47/SGAM">[Code]</a>
+          <a href="https://www.youtube.com/watch?v=GrtooGn_Rws">[Video]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="images/lidargen_eccv.gif" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong> Learning to Generate Realistic LiDAR Point Cloud </strong><br>
+      	  <a href="https://www.zyrianov.org/">Vlas Zyrianov</a>,
+          <a href="https://shenlong.web.illinois.edu/">Xiyue Zhu</a>,
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong><br>
+          European Conference on Computer Vision (<strong>ECCV</strong>), 2022<br>
+          <a href="https://arxiv.org/pdf/2209.03954.pdf">[Paper]</a>
+          <a href="https://www.zyrianov.org/lidargen/">[Project]</a>
+          <a href="https://github.com/vzyrianov/lidargen">[Code]</a>
+          <a href="https://youtu.be/ZwrExPsa2Ws">[Video]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="images/vc.png" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong> Virtual Correspondence </strong><br>
+          <a href="https://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a>, 
+          <a href="http://www.cs.toronto.edu/~ajyang/">Joyce Yang</a>, 
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>,
+          <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>,
+	  <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a></br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2022<br>
+          <a href="https://people.csail.mit.edu/weichium/virtual-correspondence/top.pdf">[Paper]</a>
+          <a href="https://virtual-correspondence.github.io/">[Project]</a>
+          <a href="https://news.mit.edu/2022/seeing-whole-from-some-parts-0617">[Media]</a>
+          <a href="https://youtu.be/W9odd2F2Bx4">[Video]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="images/neurmips.jpg" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong> NeurMiPs: Neural Mixture of Planar Experts for View Synthesis </strong><br>
+          <a href="https://zhihao-lin.github.io/">Zhi-Hao Lin</a>, 
+          <a href="https://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a>, 
+          <a href="http://vllab.ee.ntu.edu.tw/ycwang.html">Yu-Chiang Frank Wang</a>, 
+	  Hao-Yu Max Hsu,
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong></br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2022<br>
+          <a href="https://arxiv.org/abs/2204.13696">[Paper]</a>
+          <a href="https://zhihao-lin.github.io/neurmips/">[Project]</a>
+          <a href="https://github.com/zhihao-lin/neurmips">[Code]</a>
+          <a href="https://youtu.be/PV1dCTWL5Oo">[Video]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="https://people.csail.mit.edu/weichium/img/sdf_secrets.png" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong> Mending Neural Implicit Modeling for 3D Vehicle Reconstruction in the Wild </strong><br>
+          <a href="https://shivamduggal4.github.io/">Shivam Duggal*</a>,
+          <a href="https://scholar.google.com.hk/citations?user=u5cdqewAAAAJ&hl=en">Zihao Wang</a>, 
+          <a href="https://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a>, 
+          <a href="http://www.cs.toronto.edu/~manivasagam/">Siva Manivasagam</a>, 
+	  <a href="http://justin-liang.com/">Justin Liang*</a>,
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>
+          <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          Winter Conference on Applications of Computer Vision(<strong>WACV</strong>), 2022<br>
+          <a href="https://arxiv.org/pdf/2101.06860.pdf">[Paper]</a>
+          <a href="https://www.youtube.com/watch?v=IRygme5J-Ng">[Video]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/geosim.png" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving </strong><br>
+          <a href="https://tmux.top/">Yun Chen*</a>, 
+          <a href="https://friedeggs.github.io/">Frieda Rong*</a>, 
+          <a href="https://shivamduggal4.github.io/">Shivam Duggal*</a>, 
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>,
+          <a href="https://sites.google.com/site/skywalkeryxc/">Xinchen Yan</a>, 
+          <a href="http://www.cs.toronto.edu/~manivasagam/">Siva Manivasagam</a>, 
+          <a href="https://sjxue.me/">Shangjie Xue</a>, 
+          <a href="http://www.meyumer.com/">Ersin Yumer</a>, 
+          <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2021 (<strong style="color:red;">Oral, Best Paper Candidate</strong>)<br>
+          <a href="https://arxiv.org/pdf/2101.06543">[Paper]</a>
+          <a href="https://tmux.top/publication/geosim/imgs/poster.pdf">[Poster]</a>
+          <a href="https://youtu.be/_VLXc_VN0fE">[Video]</a>
+          <a href="https://tmux.top/publication/geosim/">[Project]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="http://www.cs.toronto.edu/~kelvinwong/images/scenegen.gif" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong> SceneGen: Learning to Generate Realistic Traffic Scenes </strong><br>
+          <a href="https://ariostgx.github.io/website/">Shuhan Tan*</a>, 
+          <a href="http://www.cs.toronto.edu/~kelvinwong/">Kelvin Wong*</a>, 
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>,
+          <a href="http://www.cs.toronto.edu/~manivasagam/">Siva Manivasagam</a>, 
+          <a href="https://www.cs.toronto.edu/~mren/">Mengye Ren</a>, 
+          <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2021<br>
+          <a href="https://arxiv.org/abs/2101.06541">[Paper]</a>
+          <a href="https://www.youtube.com/watch?v=ipazMi4p3xk&t=34s">[Video]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="https://www.yangze.tech/publication/CVPR2021S3/CVPR2021S3.png" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong> S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling </strong><br>
+          <a href="https://www.yangze.tech/">Ze Yang</a>, 
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>,
+          <a href="http://www.cs.toronto.edu/~manivasagam/">Siva Manivasagam</a>, 
+          <a href="https://zeng.science/">Zeng Huang</a>, 
+          <a href="https://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a>, 
+          <a href="https://sites.google.com/site/skywalkeryxc/">Xinchen Yan</a>, 
+          <a href="http://www.meyumer.com/">Ersin Yumer</a>, 
+          <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2021<br>
+          <a href="https://arxiv.org/pdf/2101.06571.pdf">[Paper]</a>
+          <a href="https://www.youtube.com/watch?v=oCpFJZrVDCs">[Video]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="http://www.cs.toronto.edu/~ajyang/images/amv_slam.png" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong> Asynchronous Multi-View SLAM</strong><br>
+          <a href="http://www.cs.toronto.edu/~ajyang/">Joyce Yang*</a>, 
+          <a href="https://www.linkedin.com/in/cancui18">Can Cui*</a>, 
+          <a href="https://siegedog.com/">Ioan Andrei Bârsan*</a>, 
+          <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>, 
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong><br>
+          International Conference on Robotics and Automation (<strong>ICRA</strong>), Xi'an, 2021<br>
+          <a href="http://www.cs.toronto.edu/~ajyang/amv-slam/files/paper.pdf">[Paper]</a>
+          <a href="http://www.cs.toronto.edu/~ajyang/amv-slam/files/supplementary.pdf">[Supp]</a>
+          <a href="https://www.youtube.com/watch?v=EV1vhUkHIy8">[Video]</a>
+          <a href="http://www.cs.toronto.edu/~ajyang/amv-slam">[Project]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="http://www.cs.toronto.edu/~kelvinwong/images/muscle.gif" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong> MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models </strong><br>
+          <a href="https://sravb.github.io/">Sourav Biswas</a>, 
+          <a href="https://scholar.google.com/citations?user=8JjemawAAAAJ">Jerry Liu</a>, 
+          <a href="http://www.cs.toronto.edu/~kelvinwong/">Kelvin Wong*</a>, 
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, 
+          <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>, 
+          Neural Information Processing Systems (<strong>NeurIPS</strong>), 2020<br>
+          <a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500222.pdf">[Paper]</a>
+          <a href="http://people.csail.mit.edu/weichium/papers/eccv20-deep-optimizer/img/deep-feedback-inverse-problem-solver-short.mp4">[Video]</a>
+          <a href="http://people.csail.mit.edu/weichium/papers/eccv20-deep-optimizer/">[Project]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="https://una-dinosauria.github.io/imgs/icra20.jpg" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Pit30M: A Benchmark for Global Localization in the Age of Self-Driving Cars</strong><br>
+          <a href="https://una-dinosauria.github.io/">Julieta Martinez</a>, 
+          <a href="https://www.linkedin.com/in/sashadoubov/">Sasha Doubov</a>, 
+          <a href="https://www.linkedin.com/in/jack-fan-87556734">Jack Fan</a>, 
+          <a href="https://siegedog.com/">Ioan Andrei Bârsan</a>, 
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong><br>
+          <a href="http://www.gellertmattyus.info/">Gellert Mattyus</a>, 
+          <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>, 
+          International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2020<br>
+          <a href="https://arxiv.org/abs/2012.12437">[Paper]</a>
+          <a href="https://www.youtube.com/watch?v=W_ZJ9oojp-o">[Video]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/deep-optimizer-teaser.gif" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Deep Feedback Inverse Problem Solver</strong><br>
+          <a href="http://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://cseweb.ucsd.edu/~jigu/">Jiayuan Gu</a>, <a href="http://www.cs.toronto.edu/~manivasagam/">Sivabalan Manivasagam</a>, <a href="https://groups.csail.mit.edu/vision/torralbalab/">Antonio Torralba</a>, <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          European Conference on Computer Vision (<strong>ECCV</strong>), Glasgow, 2020 (<strong style="color:red;">Spotlight</strong>)<br>
+          <a href="http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500222.pdf">[Paper]</a>
+          <a href="http://people.csail.mit.edu/weichium/papers/eccv20-deep-optimizer/img/deep-feedback-inverse-problem-solver-short.mp4">[Video]</a>
+          <a href="http://people.csail.mit.edu/weichium/papers/eccv20-deep-optimizer/">[Project]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/deep-video-compression.gif" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Conditional Entropy Coding for Efficient Video Compression</strong><br>
+          <a href="https://www.uber.com/us/en/atg/research-and-development/researchers/jerry-liu/">Jerry Liu</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~slwang/">Wei-Chiu Ma</a>, <a href="https://meetshah1995.github.io/">Meet Shah</a>, <a href="https://www.uber.com/us/en/atg/research-and-development/researchers/rui-hu/">Rui Hu</a>, <a href="http://www.cs.toronto.edu/~slwang/">Pranaab Dhawan</a>, <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          European Conference on Computer Vision (<strong>ECCV</strong>), Glasgow, 2020<br>
+          <a href="https://arxiv.org/pdf/2008.09180">[Paper]</a>
+          <a href="https://twitter.com/jerryjliu98/status/1297933556442779658">[Video]</a></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/dsd.gif" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Deep Structured self-Driving Network</strong><br>
+          <a href="http://www.cs.toronto.edu/~wenyuan/">Wenyuan Zeng</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~rjliao/">Renjie Liao</a>, <a href="https://tmux.top/">Yun Chen</a>, <a href="http://www.cs.toronto.edu/~byang/">Bin Yang</a>, <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          European Conference on Computer Vision, Glasgow, 2020<br>
+          <a href="https://arxiv.org/abs/2008.06041">[Paper]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/lidarsim.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>LidarSIM: Realistic LiDAR Simulation by Leveraging the Real World</strong><br>
+          <a href="http://www.cs.toronto.edu/~manivasagam/">Sivabalan Manivasagam</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~kelvinwong/">Kelvin Wong</a>, <a href="https://www.uber.com/us/zh/atg/research-and-development/researchers/wenyuan-zeng/">Wenyuan Zeng</a>, <a href="http://www.cs.toronto.edu/~slwang/">Bin Yang</a>, <a href="http://www.cs.toronto.edu/~slwang/">Shuhan Tan</a>, <a href="http://www.cs.toronto.edu/~slwang/">Mikita Sazanovich</a>, <a href="http://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a> and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Seattle, 2020 (<strong style="color:red;">Oral</strong>)<br>
+          <a href="http://openaccess.thecvf.com/content_CVPR_2020/papers/Manivasagam_LiDARsim_Realistic_LiDAR_Simulation_by_Leveraging_the_Real_World_CVPR_2020_paper.pdf">[Paper]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/octsqueeze.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>OctSqueeze: Octree-Structured Entropy Model for LiDAR Compression</strong><br>
+          <a href="http://www.cs.toronto.edu/~slwang/">Lila Huang</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~slwang/">Kelvin Wong</a>, <a href="http://www.cs.toronto.edu/~slwang/">Jerry Liu</a>, and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Seattle, 2020 (<strong style="color:red;">Oral</strong>)<br>
+          <a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_OctSqueeze_Octree-Structured_Entropy_Model_for_LiDAR_Compression_CVPR_2020_paper.pdf">[Paper]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/osis.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Identifying Unknown Instances for Autonomous Driving</strong><br>
+          <a href="http://cs.toronto.edu/~slwang/">Kelvin Wong</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~mren/">Mengye Ren</a>, and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Robot Learning (<strong>CoRL</strong>), Osaka, 2019 (<strong style="color:red;">Spotlight</strong>)<br>
+          <a href="./papers/osis.pdf">[Paper]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/gran.png" width="240" height="80" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Efficient Graph Generation with Graph Recurrent Attention Networks</strong><br>
+          <a href="http://www.cs.toronto.edu/~rjliao/">Renjie Liao</a>, <a href="http://www.cs.toronto.edu/~yujiali/">Yujia Li</a>, <a href="https://yang-song.github.io/">Yang Song</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="https://charlienash.github.io/">Charlie Nash</a>, <a href="http://www.cs.toronto.edu/~yujiali/">Yujia Li</a>, <a href="https://williamleif.github.io/">William L. Hamilton</a>, <a href="http://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a>, <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a>, and <a href="http://www.cs.toronto.edu/~zemel/">Richard Zemel</a><br>
+          Neural Information Processing Systems (<strong>NeurIPS</strong>), Vancouver, 2019<br>
+          <a href="https://arxiv.org/abs/1910.00760.pdf">[Paper]</a> <a href="https://github.com/lrjconan/GRAN">[Code]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/dsic.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>DSIC: Deep Stereo Image Compression</strong><br>
+          <a href="http://cs.toronto.edu/~slwang/">Jerry Liu</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision (<strong>ICCV</strong>), Seoul, 2019 (<strong style="color:red;">Oral</strong>)<br>
+          <a href="https://arxiv.org/pdf/1908.03631">[Paper]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/deeppruner.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>DeepPruner: Learning Efficient Stereo Matching via Differentiable PatchMatch</strong><br>
+          <a href="http://cs.toronto.edu/~slwang/">Shivam Duggal</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a>, <a href="http://www.cs.toronto.edu/~slwang/">Rui Hu</a>, and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision (<strong>ICCV</strong>), Seoul, 2019<br>
+          <a href="./papers/deeppruner.pdf">[Paper]</a> <a href="https://github.com/uber-research/DeepPruner">[Code]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/drisf.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Deep Rigid Instance Scene Flow</strong><br>
+          <a href="http://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~slwang/">Rui Hu</a>, <a href="http://www.cs.toronto.edu/~yuwen/">Yuwen Xiong</a>, and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Long Beach, 2019 (<strong style="color:red;">1st place on KITTI Scene Flow</strong>)<br>
+          <a href="http://people.csail.mit.edu/weichium/papers/cvpr19-drisf/paper.pdf">[Paper]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/compression.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Learning to Localize through Compressed Binary Maps</strong><br>
+          <a href="http://www.cs.toronto.edu/~slwang/">Xinkai Wei*</a>, <a href="http://www.cs.toronto.edu/~iab/">Ioan Andrei Barsan*</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang*</a></strong>, <a href="https://una-dinosauria.github.io/">Julieta Martinez</a>, and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Long Beach, 2019<br>
+          <a href="https://1fykyq3mdn5r21tpna3wkdyi-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Learning-to-Localize-through-Compressed-Binary-Maps.pdf">[Paper]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/snake.png" width="240" height="80" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Convolutional Recurrent Network for Road Boundary Extraction</strong><br>
+          <a href="http://justin-liang.com/">Justin Liang*</a>, <a href="http://www.cs.toronto.edu/~namdar/">Namdar Homayounfar*</a>, <a href="http://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Long Beach, 2019<br>
+          <a href="https://1fykyq3mdn5r21tpna3wkdyi-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Convolutional-Recurrent-Network-for-Road-Boundary-Extraction.pdf">[Paper]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/deep_gil.png" width="240" height="80" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Learning to Localize Using a LiDAR Intensity Map</strong><br>
+          <a href="http://www.cs.toronto.edu/~iab/">Ioan Andrei Barsan*</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang*</a></strong>, <a href="http://www.cs.toronto.edu/~slwang/">Andrei Pokrovsky</a>, and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          Conference on Robot Learning (<strong>CORL</strong>), Zurich, 2018 (<strong style="color:red;">Spotlight</strong>)<br>
+          <a href="http://proceedings.mlr.press/v87/barsan18a/barsan18a.pdf">[Paper]</a><a href="https://www.youtube.com/watch?v=ISQZzWZmbEs">[Video]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/lane_detect.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Deep Multi-Sensor Lane Detection</strong><br>
+          <a href="http://www.cs.toronto.edu/~mbai/">Min Bai*</a>, <a href="http://www.gellertmattyus.info/">Gellert Mattyus*</a>,<a href="http://www.cs.toronto.edu/~namdar/">Namdar Homayounfar</a>,<a href="http://www.cs.toronto.edu/~slwang/">Shrinidhi Kowshika Lakshmikanth</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), Madrid, 2018<br>
+          <a href="./papers/lane_detect.pdf">[Paper]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="http://www.cs.toronto.edu/~byang/images/previews/cont_fuse.png" width="240" height="120" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Deep Continuous Fusion for Multi-Sensor 3D Object Detection</strong><br>
+          <a href="http://www.cs.toronto.edu/~slwang/">Ming Liang</a>, <a href="http://www.cs.toronto.edu/~byang/">Bin Yang</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          European Conference on Computer Vision (<strong>ECCV</strong>), Munich, 2018 (<strong style="color:red;">1st place on KITTI BEV Detection</strong>)<br>
+          <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf">[Paper]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/pccn.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Deep Parameteric Continuous Convolutional Neural Networks</strong><br>
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>*, <a href="http://www.cs.toronto.edu/">Simon Suo</a>*, <a href="http://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a>, <a href="http://www.cs.toronto.edu/~slwang/">Andrei Pokrovsky</a>, and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Salt Lake City, 2018 (<strong style="color:red;">Spotlight</strong>)<br>
+          <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Deep_Parametric_Continuous_CVPR_2018_paper.pdf">[Paper]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/tcity.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>TorontoCity: Seeing the World with a Million Eyes</strong><br>
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~mbai/">Min Bai</a>*, <a href="http://www.gellertmattyus.info/">Gellert Mattyus</a>*, <a href="http://chuhang.github.io/">Hang Chu</a>*, <a href="http://www.cs.toronto.edu/~wenjie/">Wenjie Luo</a>, <a href="http://www.cs.toronto.edu/~byang/">Bin Yang</a>, <a href="http://justin-liang.com/about/">Justin Liang</a>, <a href="http://www.cs.toronto.edu/~joel/">Joel Cheverie</a>, <a href="http://www.cs.utoronto.ca/~fidler/">Sanja Fidler</a>, <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision (<strong>ICCV</strong>), Venice, 2017 (<strong style="color:red;">Spotlight</strong>)<br>
+          <a href="http://www.cs.toronto.edu/~urtasun/publications/wang_etal_iccv17.pdf">[Paper]</a> <a href="http://www.cs.toronto.edu/~slwang/tcity.html">[Update]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/attention.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>AutoScaler: Scale-Attention Networks for Visual Correspondence</strong><br>
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://linjieluo.com">Linjie Luo</a>, <a href="https://people.eecs.berkeley.edu/~nzhang/">Ning Zhang</a> and <a href="http://vision.stanford.edu/lijiali/">Jia Li</a><br>
+          British Machine Vision Conference (<strong>BMVC</strong>), London, 2017 (<strong style="color:red;">Oral</strong>)<br>
+          <a href="http://linjieluo.com/files/17-BMVC-AutoScaler.pdf">[Paper]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/sun.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Find Your Way by Observing the Sun and Other Semantic Cues</strong><br>
+          <a href="http://people.csail.mit.edu/weichium/">Wei-Chiu Ma</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~fidler/">Sanja Fidler</a> and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Robotics and Automation (<strong>ICRA</strong>), Singapore, 2017<br>
+          <a href="https://arxiv.org/pdf/1606.07415.pdf">[Paper]</a> <a href="https://www.youtube.com/watch?v=tOVWptik0qI&amp;feature=youtu.be">[Video]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/proximalnet.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Proximal Deep Structured Models</strong><br>
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~fidler/">Sanja Fidler</a> and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          Neural Information Processing Systems (<strong>NeurIPS</strong>), Barcelona, 2016<br>
+          <a href="./papers/proximalnet.pdf">[Paper]</a><a href="./papers/supp_nips16.pdf">[Supp]</a><a href="https://bitbucket.org/shenlongwang/proximalnet">[Code]</a> <a href="http://www.cs.toronto.edu/~slwang/proximalnet_data.tar.gz">[Data]</a> <a href="http://www.cs.toronto.edu/~slwang/update.html">[Update]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/housecraft.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>HouseCraft: Building Houses from Rental Ads and Street Views</strong><br>
+          <a href="http://chuhang.github.io/">Hang Chu</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~fidler/">Sanja Fidler</a> and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          European Conference on Computer Vision (<strong>ECCV</strong>), Amsterdam, 2016<br>
+          <a href="http://chuhang.github.io/files/publications/ECCV_16.pdf">[Paper]</a> <a href="https://github.com/chuhang/HouseCraft">[Code]</a> <a href="http://www.cs.toronto.edu/housecraft/download/SydneyHouse-annotate.zip">[Data]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/holoportation.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Holoportation: Virtual 3D Teleportation in Real-time</strong><br>
+          Sergio Orts-Escolano et al.<br>
+          User Interface Software and Technology Symposium European (<strong>UIST</strong>), Tokyo, 2016 (<strong style="color:red;">Oral</strong>)<br>
+          <a href="./papers/holoportation.pdf">[Paper]</a> <a href="https://www.youtube.com/watch?v=7d59O6cfaM0">[Video]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/gpc.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>The Global Patch Collider</strong><br>
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://research.microsoft.com/en-us/people/seanfa/">Sean Fanello</a>, <a href="http://research.microsoft.com/en-us/people/chrheman/">Christoph Rhemann</a>, <a href="http://research.microsoft.com/en-us/people/shahrami/">Shahram Izadi</a> and <a href="http://research.microsoft.com/en-us/um/people/pkohli/">Pushmeet Kohli</a><br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Las Vegas, 2016 (<strong style="color:red;">Oral</strong>)<br>
+          <a href="http://www.cs.utoronto.ca/~slwang/gpc.pdf">[Paper]</a> <a href="http://docs.opencv.org/trunk/d2/d84/group__optflow.html">[OpenCV]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/hdmap.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>HD Maps: Fine-grained Road Segmentation by Parsing Ground and Aerial Images</strong><br>
+          <a href="http://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5242/8788_read-26387/sortby-lastname/">Gellert Mattyus</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~fidler/">Sanja Fidler</a> and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Las Vegas, 2016<br>
+          <a href="http://www.cs.utoronto.ca/~slwang/hdmap.pdf">[Paper]</a> <a href="http://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5431/9230_read-46774/">[Data]</a><a href="https://www.youtube.com/watch?v=dgL4nqWzoiU">[Video]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/shopping.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Lost Shopping! Monocular Localization in Large Indoor Spaces</strong><br>
+          <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~fidler/">Sanja Fidler</a> and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision (<strong>ICCV</strong>), Santiago, 2015 (<strong style="color:red;">Oral</strong>)<br>
+          <a href="http://www.cs.utoronto.ca/~fidler/papers/wangICCV15.pdf">[Paper]</a> <a href="https://drive.google.com/drive/folders/0BzdtXTmAw_g-OElmd1lUVU5YREE?usp=sharing">[Data]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="26%"><img src="./images/earth.png" width="240" height="100" class="papericon"></td>
+        <td width="4%"></td>
+        <td width="68%">
+          <p class="papertext"><strong>Enhancing World Maps by Parsing Aerial Images</strong><br>
+          <a href="http://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5242/8788_read-26387/sortby-lastname/">Gellert Mattyus</a>, <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~fidler/">Sanja Fidler</a> and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+          International Conference on Computer Vision (<strong>ICCV</strong>), Santiago, 2015 <a href="http://www.cs.utoronto.ca/~fidler/papers/aerialICCV15.pdf">[Paper]</a> <a href="http://pba-freesoftware.eoc.dlr.de/iccv_code.zip">[Code]</a> <a href="http://pba-freesoftware.eoc.dlr.de/iccv_data_public.zip">[Data]</a><a href="https://youtu.be/MelChQLa5nY?t=31m44s%20target=">[Video]</a></p>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+      <tbody>
+        <tr>
+          <td width="26%"><img src="./images/geo.png" width="240" height="100" class="papericon"></td>
+          <td width="4%"></td>
+          <td width="68%">
+            <p class="papertext"><strong>Holistic 3D Scene Understanding from a Single Geo-tagged Image</strong><br>
+            <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.cs.toronto.edu/~fidler/">Sanja Fidler</a> and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+            International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Boston, 2015 (<strong style="color:red;">Oral</strong>)<br>
+            <a href="./papers/kitti3D.pdf">[Paper]</a> <a href="https://bitbucket.org/shenlongwang/geoprior">[Code]</a></p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="26%"><img src="./images/CCCP.png" width="240" height="100" class="papericon"></td>
+          <td width="4%"></td>
+          <td width="68%">
+            <p class="papertext"><strong>Efficient Inference for Contiuous Markov Random Fields with Polynomial Potentials</strong><br>
+            <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www.alexander-schwing.de/">Alex Schwing</a> and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+            Neural Information Processing Systems (<strong>NeurIPS</strong>), Montreal, 2014<br>
+            <a href="./papers/cccp.pdf">[Paper]</a> <a href="https://bitbucket.org/shenlongwang/cccppoly">[Code]</a></p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td width="26%"><img src="./images/gp.png" width="240" height="100" class="papericon"></td>
+          <td width="4%"></td>
+          <td width="68%">
+            <p class="papertext"><strong>Transductive Gaussian Process on Image Denoising</strong><br>
+            <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www4.comp.polyu.edu.hk/~cslzhang/">Lei Zhang</a> and <a href="http://www.cs.toronto.edu/~urtasun/">Raquel Urtasun</a><br>
+            International Conference on Computational Photography (<strong>ICCP</strong>), Santa Clara, 2014 (<strong style="color:red;">Oral</strong>)<br>
+            <a href="./papers/GP.pdf">[Paper]</a> <a href="./bibs/GP.bib">[Bibtex]</a></p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td><img src="./www/SCDL.png" width="240" height="80" class="papericon"></td>
+          <td width="4%"></td>
+          <td>
+            <p class="papertext"><strong>Semi-Coupled Dictionary Learning with Applications in Image Super-resolution and Photo-Sketch Synthesis</strong><br>
+            <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www4.comp.polyu.edu.hk/~cslzhang/">Lei Zhang</a> and Yan Liang<br>
+            IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Providence, RI, 2012<br>
+            <a href="./papers/SCDL.pdf">[Paper]</a> <a href="https://bitbucket.org/shenlongwang/scdl">[Code]</a></p>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td><img src="./www/NSP.png" width="240" height="80" class="papericon"></td>
+          <td width="4%"></td>
+          <td class="papertext">
+            <strong>Nonlocal Spectral Prior Model for Low-level Vision</strong><br>
+            <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong>, <a href="http://www4.comp.polyu.edu.hk/~cslzhang/">Lei Zhang</a> and Yan Liang<br>
+            Asian Conference on Computer Vision (<strong>ACCV</strong>), Korea, 2012<br>
+            <a href="./papers/NSP.pdf">[Paper]</a> <a href="./bibs/NSP.bib">[Bibtex]</a>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr>
+          <td><img src="./www/RCR.png" width="240" height="80" class="papericon"></td>
+          <td width="4%"></td>
+          <td class="papertext">
+            <strong>Relaxed Collaborative Representation for Pattern Classification</strong><br>
+            <a href="http://www4.comp.polyu.edu.hk/~csmyang">Meng Yang</a>, <a href="http://www4.comp.polyu.edu.hk/~cslzhang/">Lei Zhang</a>, <a href="http://www4.comp.polyu.edu.hk/~csdzhang/">David Zhang</a> and <strong><a href="https://shenlong.web.illinois.edu/">Shenlong Wang</a></strong><br>
+            IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Providence, RI, 2012<br>
+            <a href="./papers/RCR.pdf">[Paper]</a> <a href="./bibs/RCR.bib">[Bibtex]</a>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+      </tbody>
+    </table><br>
+    <p class="textsectionheader2">Referee Services</p>
+    <hr>
+    <ul type="square">
+      <li>Area Chair / SPC: CVPR 2022, CVPR 2021, AAAI 2021</li>
+      <li>Journal Reviewer: PAMI, IJCV, TRO, TMLR, TIP, TGRS, CVIU, PR, IVC, TCSVT, TASE, TNNLS</li>
+      <li>Conference PC Member / Reviewer: CVPR 2015-now, ECCV 2016-now, ICCV 2017-now, ICLR 2017-now, ICML 2016-now, Neurips 2016-now, UAI 2015-2018, ICRA 2016-now, IROS 2018-now, RSS 2021-now</li>
+    </ul>
+    <p class="textsectionheader2">Honors and Awards</p>
+    <hr>
+    <ul type="square">
+      <li>Amazon Research Award, 2022</li>
+      <li>CVPR Best Paper Award Candidate, 2021</li>
+      <li>IROS Best Application Paper Finalist, 2020</li>
+      <li>Neurips Top Reviewer, 2020</li>
+      <li>Facebook Fellowship (13 world-wide, declined), 2017</li>
+      <li>Adobe Fellowship (10 world-wide, declinded), 2017</li>
+      <li>RBC Fellowship (3 university-wide), 2017</li>
+      <li>Platform Computing Graduate Fellowship, UofT, 2016</li>
+    </ul><!--
+</p>
+<p class="textsectionheader2">Courses Taken</p>
+<hr>
+<p>
+<UL TYPE="SQUARE">
+<LI> CSC 2541 - <a href="http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter17.html">Topics in Machine Learning: Sports Analysis</a>, A+
+<LI> CSC 2523 - <a href="http://www.cs.utoronto.ca/~fidler/teaching/2015/CSC2523.html">Topics in Computer Vision: Deep Learning in Computer Vision</a>, A+
+<LI> CSC 2541 - <a href="http://www.cs.toronto.edu/~urtasun/courses/CSC2541/CSC2541_Winter16.html">Topics in Machine Learning: Visual Perception for Autonomous Driving</a>, A+
+<LI> CSC 2523 - <a href="http://www.cs.utoronto.ca/~fidler/CSC2523.html">Topics in Computer Vision: Visual Recognition with Text</a>, A+
+<LI> CSC 2504 - <a href="http://www.cdf.toronto.edu/~moore/csc418/w2013/">Computer Graphics</a>, A+
+<LI> CSC 2305 - <a href="http://www.cs.toronto.edu/~krj/courses/2305/">Numerical Methods for Optimization Problems</a>, A+
+<LI> TTIC 31030 - Mathematical Foundations, A
+<LI> TTIC 31020 - <a href="http://ttic.uchicago.edu/~gregory/courses/ml2013/">Statistical Machine Learning</a>, A
+</UL>
+</p>
+!-->
+    <p class="textsectionheader2">Teaching Assistant</p>
+    <hr>
+    <ul type="square">
+      <li>ECE 521 - <a href="https://ece521.github.io/">Inference Algorithms and Machine Learning</a>
+      </li>
+      <li>CSC 320 - <a href="http://www.cs.toronto.edu/~mangas/teaching/320/index.html">Introduction to Visual Computing</a>
+      </li>
+      <li>CSC 420 - <a href="http://www.cs.utoronto.ca/~fidler/teaching/2017/CSC420.html">Introduction to Image Understanding</a>
+      </li>
+      <li>CSC 411 - <a href="http://www.cs.toronto.edu/~zemel/inquiry/courses_home.php?ID=4&amp;SEM=7">Machine Learning and Data Mining</a> (multiple times)
+      </li>
+      <li>CSC 2515 - <a href="http://www.cs.toronto.edu/~urtasun/courses/CSC2515/CSC2515_Winter15.html">Introduction to Machine Learning</a> (multiple times)
+      </li>
+      <li>STA D68 - <a href="http://danroy.org/teaching/2015/STAD68H3/">Advanced Machine Learning and Data Mining</a>
+      </li>
+    </ul>
+    <p class="textsectionheader2">Talks</p>
+    <hr>
+    <ul type="square">
+      <li>Extreme 3D Reconstruction and Simulation, Autodesk, 2022</li>
+      <li>Towards Realistic and Scalable Simulation for Autonomy, CVPR/UIUC, 2021</li>
+      <li>Safely Train and Test Autonomous Vehicles with Augmented Reality, Kent Seminars, 2021</li>
+      <li>Neural Compression for Geometric Data, CVPR, 2021</li>
+      <li>Learning 3D Representations for Self-Driving, UofT/NVIDIA/UIUC, 2020</li>
+      <li>Learning to Drive with a Touch of Human Knowledge, UIUC/CMU/Cornell/GaTech/Maryland/UNC/SFU/etc, 2020</li>
+      <li>Towards More Robust and Data-Efficient Robotics in the Wild, Intel/NVIDIA, 2019</li>
+      <li>Deep Geometric Scene Understanding for Self-Driving Cars, CREATE Summer School, 2019</li>
+      <li>Deep Parameteric Continuous Conv, CVPR, 2018</li>
+      <li>TorontoCity, ICCV/Endless Summer School, 2017</li>
+      <li>The Global Patch Collider, CVPR/UofT, 2016</li>
+      <li>3D Scene Understanding with Knowledge about the World, VALSE Webinar/YorkU, 2016</li>
+      <li>Lost Shopping! Monocular Localization in Large Indoor Spaces, ICCV, 2015</li>
+      <li>Holistic 3D Scene Understanding from a Single Monocular Image, CVPR, 2015</li>
+      <li>Efficient Inference on Continuous MRFs with Polynomial Potentials, NCAP/UofT, 2014</li>
+    </ul>
+    <p class="textsectionheader2">Miscs</p>
+    <hr>
+    <!-- I have given tutorials on following topics at research seminars:
+    <ul type="square">
+      <li>
+        <a href="./papers/generative_model.pdf">Deep Generative Models</a>
+      </li>
+      <li>
+        <a href="./papers/primal-dual.pdf">Primal-Dual Methods</a>
+      </li>
+      <li>
+        <a href="http://www.cs.utoronto.ca/~fidler/teaching/2015/slides/CSC2523/shenlong_segmentation.pdf">Segmentation</a>
+      </li>
+      <li>
+        <a href="http://www.cs.toronto.edu/~urtasun/courses/CSC2541/02_flow.pdf">Optical Flow</a>
+      </li> !-->
+    </ul>I take photos in my spare time:
+    <ul type="square">
+      <li>
+        <a href="http://www.pentaxphotogallery.com/artists/shenlongwang">Pentax Photo Gallery</a> (It's a double-blind peer-review system.)
+      </li>
+      <li>
+        <a href="https://www.flickr.com/photos/124723270@N04/">Flickr</a> (It's more like arXiv, including some of my photo submissions rejected by pentax photo gallery.)
+      </li>
+    </ul>I have a lovely daughter, Dorie.<br>
+  </div>
+</body>
+</html>
